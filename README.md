@@ -195,13 +195,14 @@ H5端：https://java.crmeb.net<br>
 
 资料支持<br>
 使用文档：https://doc.crmeb.com/java/crmeb_java/1868<br>
-接口文档：<br>
+接口文档：admin(管理端): https://api.java.crmeb.net/doc.html<br>
+接口文档：front(商城端): https://apif.java.crmeb.net/doc.html<br>
 数据字典：https://doc.crmeb.com/java/crmeb_java/5410<br>
-二开文档：<br>
+二开文档：https://doc.crmeb.com/java/crmeb_java_23/25107<br>
 技术社区：https://www.crmeb.com/ask/thread/list/152<br>
 
 安装教程<br>
-快速安装视频教程：点击查看（加安装视频链接跳转）<br>
+快速安装视频教程：[点击查看](https://www.bilibili.com/video/BV1bP4y1n76P/?vd_source=40854aeda5bba4b8766afd5a99623b16)<br>
 安装步骤详解：https://doc.crmeb.com/java/crmeb_java/2154<br>
 ---
 
@@ -247,11 +248,11 @@ H5端：https://java.crmeb.net<br>
 
 
 
-#### 📞 技术交流
+<!-- #### 📞 技术交流
 跟着官方，不迷路！欢迎扫码加入CRMEB 开源项目群，一手消息及资源，尽在掌握！<br>
 CRMEB JAVA 技术交流QQ群 1群 🈵️<br>
 CRMEB JAVA 技术交流QQ群 2群 🈵️<br>
-CRMEB JAVA 技术交流QQ群 3群 640230510 🈵️ 群已满<br>
+CRMEB JAVA 技术交流QQ群 3群 640230510 🈵️ 群已满<br> -->
 <!-- [CRMEB开源商城系统开发QQ频道已开启，点击加入一起交流学习](https://pd.qq.com/s/1v2yb4e0p)<br>
 ![](crmeb/crmebimage/crmebimage/demoimage/qqcus.jpg) -->
 <!-- 使用中遇到bug 或者问题可以在gitee 上提 Issues -->
